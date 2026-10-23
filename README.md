@@ -10,7 +10,6 @@ A high-performance visual whiteboard and diagramming studio designed for strateg
   <a href="https://www.radix-ui.com/"><img src="https://img.shields.io/badge/Radix_UI-Primitives-161618?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Radix UI" /></a>
   <a href="https://recharts.org/"><img src="https://img.shields.io/badge/Recharts-Data_Viz-22B5BF?style=for-the-badge" alt="Recharts" /></a>
   <a href="https://lucide.dev/"><img src="https://img.shields.io/badge/Lucide_Icons-Vector-F56565?style=for-the-badge&logo=feather&logoColor=white" alt="Lucide Icons" /></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge" alt="License MIT" /></a>
 </p>
 
 ---
@@ -36,7 +35,6 @@ A high-performance visual whiteboard and diagramming studio designed for strateg
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 - [The `.pln` File Format Specification](#the-pln-file-format-specification)
 - [Project Architecture](#project-architecture)
-- [License](#license)
 
 ---
 
@@ -315,9 +313,3 @@ planning-board/
 ├── tsconfig.json               # TypeScript compiler configuration
 └── vite.config.ts              # Vite bundling pipeline configuration
 ```
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
